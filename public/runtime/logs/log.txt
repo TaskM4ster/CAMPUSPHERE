@@ -1,0 +1,7 @@
+Date: 26/10/2026 23:20:10
+Exception Class: E_WARNING
+Error Message: Trying to access array offset on null
+Filename: C:\laragon\www\campusphere\app\models\Student_model.php
+Line Number: 168
+------------------------------------------------------------------
+
